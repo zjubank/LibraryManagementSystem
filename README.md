@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-ZJU SQL Project
+ZJU SQL Project 2015 Summer
